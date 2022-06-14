@@ -20,3 +20,4 @@ C:\Users\ユーザ名\AppData\Local\Temp
 
 
 https://qiita.com/katsu105/items/774d199bb6bf2bdc945f
+https://qiita.com/SE-studying-now/items/ec0b82932a5b450b4490
