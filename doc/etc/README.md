@@ -5,3 +5,6 @@
 
 * Arduino
   * http://fabcross.jp/news/2022/20221209_inkplate2.html
+ 
+* Amazonの取り組み
+  * https://japan.cnet.com/article/35197282/
