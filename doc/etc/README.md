@@ -8,3 +8,6 @@
  
 * Amazonの取り組み
   * https://japan.cnet.com/article/35197282/
+
+* ノーコードAi
+  * https://ledge.ai/site/gravio/gravio-ai-image-classification
