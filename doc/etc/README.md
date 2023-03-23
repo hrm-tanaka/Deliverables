@@ -13,3 +13,6 @@
 
 * ノーコードAi
   * https://ledge.ai/site/gravio/gravio-ai-image-classification
+
+* ChatGPT
+  * https://gigazine.net/news/20230323-github-copilot-x/
